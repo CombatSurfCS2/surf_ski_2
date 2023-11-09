@@ -1,0 +1,11 @@
+importfilelist
+{
+	"file" "materials\models\props\de_inferno\ceiling_light.vmt"
+	"file" "materials\models\props\de_inferno\wall_lamp_bulb.vmt"
+	"file" "materials\models\weapons\w_models\w_shot_nova\shot_nova.vmt"
+	"file" "materials\models\weapons\shared\shells\shotgun\shell_shotgun.vmt"
+	"file" "materials\models\weapons\w_models\w_snip_awp\awp.vmt"
+	"file" "materials\models\weapons\shared\scope\scope_awp.vmt"
+	"file" "materials\models\props\de_inferno\wall_lamp_bulb_off.vmt"
+	"file" "materials\models\props\cs_office\crate_office_indoor_64.vmt"
+}
